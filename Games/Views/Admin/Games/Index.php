@@ -74,7 +74,7 @@
 
             <p><br>
             <button type="submit" class="btn btn-xs btn-success" name="submit"><i class="fa fa-check"></i> Filter Games</button>
-            <button type="reset" class="btn btn-xs btn-warning"><i class="fa fa-refresh"></i> Reset Filter</button>
+            <a href="<?=site_url('admin/games');?>" class="btn btn-xs btn-warning"><i class="fa fa-refresh"></i> Reset Filter</a>
                 </p>
 
             <p> <?=$games->getTotal();?> Games</p>
