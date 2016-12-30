@@ -1,0 +1,17 @@
+{
+    "name": "Games",
+    "description": "Games list",
+    "homepage": "http://www.novaframework.dev",
+    "version": "1.0",
+    "authors" : [
+        {
+            "name" : "David Carr",
+            "email" : "dave@daveismyname.com",
+            "homepage": "http://www.novaframework.dev",
+            "role": "Developer"
+        }
+    ],
+    "license": "mit",
+    "slug": "games",
+    "namespace": "Games"
+}
